@@ -12,7 +12,7 @@
   height: 100vh;
 }
 
-input, label, select{
+input, label, select, textarea{
   margin-top: 10px;
   font-size: 22px;
 }
