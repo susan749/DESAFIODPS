@@ -1,3 +1,3 @@
 export default function Inicio(){
-    return <h1>Ya wey</h1>
+    return <h1>Desafio 1 DPS</h1>
 }
