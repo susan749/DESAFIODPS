@@ -1,16 +1,15 @@
 export default function Menu(){
-    return <nav>
-        <lu>
-            <li>
-                <a href="/">Inicio</a>
-            </li>
-            <li>
-                <a href="/Datos">Datos</a>
-            </li>
-            <li>
-                <a href="/Conversiones">Conversiones</a>
-            </li>
-        </lu>
-    </nav>
+    return <div className="App">
+        
+            
+                <a className="boton" href="/">Inicio</a>
+            
+                <a className="boton" href="/Datos">Datos</a>
+            
+                <a className="boton" href="/Conversiones">Conversiones</a>
+            
+        
+        </div>
+   
     
 }

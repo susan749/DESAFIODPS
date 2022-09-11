@@ -9,7 +9,7 @@
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  height: 100vh;
+ 
 }
 
 input, label, select, textarea{
@@ -17,7 +17,7 @@ input, label, select, textarea{
   font-size: 22px;
 }
 button {
-  background-color: #4CAF50; /* Green */
+  background-color: #4CAF50;
   border: none;
   color: white;
   padding: 15px 32px;
@@ -27,3 +27,15 @@ button {
   font-size: 16px;
   margin-top: 25px;
 }
+
+.boton {
+  border: 1px solid #2e518b; 
+  padding: 10px; 
+  background-color: #2e518b; 
+  color: #ffffff; 
+  text-decoration: none; 
+  text-transform: uppercase; 
+  font-family: 'Helvetica', sans-serif; 
+  border-radius: 50px; 
+  margin-top: 25px;
+  }
